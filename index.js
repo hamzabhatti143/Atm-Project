@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let balanceAmount = 10000;
 console.log(`Your Avaialable amount is is ${balanceAmount}`);
