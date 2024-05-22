@@ -1,6 +1,6 @@
 {
   "name": "hamzabhatti-atm",
-  "version": "2.0.3",
+  "version": "4.0.4",
   "description": "This is an CLI based ATM.",
   "main": "index.js",
   "type": "module",
